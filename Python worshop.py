@@ -189,3 +189,5 @@ result = suivre_taux_occupation_journaliere()
 print(result)
 
 # Calculateur d'empreinte carbone
+
+# Analyseur d'enquête sur la divesité
