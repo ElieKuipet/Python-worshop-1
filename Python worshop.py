@@ -187,3 +187,5 @@ def suivre_taux_occupation_journaliere():
 
 result = suivre_taux_occupation_journaliere()
 print(result)
+
+# Calculateur d'empreinte carbone
